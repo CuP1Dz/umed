@@ -1,0 +1,19 @@
+.telegram-btn{
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    z-index: 100;
+    font-size: 20px;
+    background-color: transparent;
+    box-shadow: 0px 0px 6px grey;
+    border-radius: 360px;
+    height: 60px;
+}
+.telegram-btn img{
+    width: 60px;
+    height: 60px;
+    border-radius: 360px;
+}

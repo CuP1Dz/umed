@@ -1,0 +1,46 @@
+.add-stream-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 24px;
+    border-radius: 20px;
+}
+.top-card{
+
+}
+.top-card h1{
+    color: #FFFEFF;
+}
+.bottom-card{
+    width: 100%;
+}
+.add-grade{
+    margin-inline: 8px;
+    margin-bottom: 4px;
+    padding: 8px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.add-grade p{
+    width: 100%;
+    font-size: 13px;
+}
+.education{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.education img{
+    width: 32px;
+    height: auto;
+}
+.education-txt{
+    margin-inline: 8px;
+    margin-bottom: 4px;
+    padding: 8px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.education-txt p{
+    font-size: 13px;
+}

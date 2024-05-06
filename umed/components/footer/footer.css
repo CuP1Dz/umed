@@ -1,0 +1,28 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.footer-cont{
+    width: 90%;
+}
+.footer-wrapper{
+    background-color: #5E419D;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 20px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.footer-number{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.footer-wrapper button{
+    background-color: #fff;
+    border: 0;
+    padding: 10px 18px;
+    border-radius: 30px;
+}

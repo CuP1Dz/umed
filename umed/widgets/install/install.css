@@ -1,0 +1,31 @@
+.install{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.install-cont{
+    width: 90%;
+}
+.install-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.install-img img{
+    width: 400px;
+    height: 400px;
+}
+.install-txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50%;
+}
+.install-txt span{
+    color: #3b71CA;
+    cursor: pointer;
+}
+.install-os{
+    display: flex;
+    gap: 20px;
+}

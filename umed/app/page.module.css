@@ -1,0 +1,18 @@
+
+.main {
+  background-color: #fafafa;
+}
+
+.topButton {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #5E419D;
+  color: white;
+  padding: 15px;
+  border: none;
+  border-radius: 360px;
+  cursor: pointer;
+  z-index: 100;
+  font-size: 20px;
+}

@@ -1,0 +1,37 @@
+.review{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.review-cont{
+    width: 90%;
+}
+.review-wrapper{
+
+}
+.review-img img{
+    border-radius: 180px;
+}
+.review-head{
+    margin-bottom: 20px;
+}
+.review-block{
+    display: flex;
+    justify-content: space-around;
+    background-color: #6f42c1;
+    padding: 48px 24px;
+    border-radius: 15px;
+    flex-wrap: wrap;
+}
+.review-txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 60%;
+}
+.placeholder{
+    font-size: 17px;
+}
+.review-author{
+    font-size: 13px;
+}

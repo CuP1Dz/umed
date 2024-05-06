@@ -1,0 +1,32 @@
+.news{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.news-cont{
+    width: 90%;
+}
+.news-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.news-txt{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.news-txt p{
+    text-decoration: underline;
+}
+.arrows{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    cursor: pointer;
+}
+.news-flex{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
